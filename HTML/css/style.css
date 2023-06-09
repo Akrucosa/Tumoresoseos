@@ -809,11 +809,11 @@ a:focus {
   }
 }
 .main-title span {
-  font-size: 21px;
+  font-size: 30px;
   font-weight: 100;
 }
 .main-title p {
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .main-title-style2 {
@@ -1612,7 +1612,7 @@ a:focus {
 }
 .why-choose_right p {
   font-weight: 300;
-  font-size: 13px;
+  font-size: 18px;
   margin: 0 0 25px;
 }
 
@@ -4199,3 +4199,6 @@ SERVICE DETAIL
   font-size: 13px;
   margin: 0;
 }
+/* .subtitle-font {
+font-size: 18px !important;
+} */
