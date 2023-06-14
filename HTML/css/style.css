@@ -485,7 +485,7 @@ h4 {
 p {
   line-height: 13px;
   line-height: 1.8;
-  font-size: 14px;
+  font-size: 17.5px;
 }
 
 a:focus {
@@ -809,11 +809,12 @@ a:focus {
   }
 }
 .main-title span {
+  Color: #4d72d0;
   font-size: 30px;
   font-weight: 100;
 }
 .main-title p {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .main-title-style2 {
@@ -1190,6 +1191,7 @@ a:focus {
 }
 .video-play-text span {
   color: #4d72d0;
+  font-size: 1.5rem;
   font-weight: 500;
   margin: 0 0 20px;
   display: block;
@@ -1419,10 +1421,9 @@ a:focus {
 }
 .heading-style1 span {
   color: #4d72d0;
-  font-style: italic;
   position: relative;
   font-weight: 500;
-  font-size: 13px;
+  font-size: 18px;
 }
 .heading-style1 h2 {
   font-weight: 600;
@@ -1861,6 +1862,7 @@ a:focus {
 }
 .sub-title_center span {
   color: #4d72d0;
+  font-size: 1.5rem;
   font-weight: 500;
 }
 
@@ -2257,10 +2259,11 @@ footer {
 .foot-contact-block p {
   color: #dededebd;
   font-weight: 300;
-  font-size: 14px;
+  font-size: 24px;
   margin: 0 0 25px;
 }
 .foot-contact-block h4 {
+  font-size: 18px;
   color: #dededebd;
   margin: 0 0 15px;
   font-weight: 400;
